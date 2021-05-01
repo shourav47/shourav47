@@ -1,4 +1,4 @@
-![DevIncept logo image](https://www.cleanpng.com/png-student-computer-cartoon-clip-art-sitting-in-front-511586/preview.html)
+![DevIncept logo image](C:\Users\User\Desktop\git\sb-blog-ai.jpg)
 ## Hello, There :heart:
 I am ***Md. Asaduzzaman***, Currently I am obtainig my undergraduate degree in Electronics & Communication Engineering from KUET,Bangladesh.
 
