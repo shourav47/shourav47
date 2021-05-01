@@ -9,12 +9,14 @@
 
 ### Contact info:
 
+<p>
 <a href="https://www.linkedin.com/in/md-asaduzzaman-b5a45b18a/">
   <img align="left" alt="Asaduzzaman-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
 <a href="https://www.facebook.com/asaduzzaman.shourav.5/">
   <img align="left" alt="Asasuzzaman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">
 </a>
+</p>
 
 ### Skills:
 
