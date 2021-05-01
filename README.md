@@ -16,13 +16,14 @@
 </a>
 </p>
 </h3>
-###Skills:
-*Python
-*Machine Learning
-*Deep Learning
-*Web Development
-*C
-*C++
-*Javascript
-*Asp.net
-*Sql
+
+### Skills:
+* Python
+* Machine Learning
+* Deep Learning
+* Web Development
+* C
+* C++
+* Javascript
+* Asp.net
+* Sql
