@@ -1,5 +1,6 @@
-![sb-blog-ai](https://user-images.githubusercontent.com/63811871/116791466-6b05c780-aadc-11eb-98db-7be28b2ef043.jpg)
 ## Hello, There :heart:
+![sb-blog-ai](https://user-images.githubusercontent.com/63811871/116791466-6b05c780-aadc-11eb-98db-7be28b2ef043.jpg)
+
 I am ***Md. Asaduzzaman***, Currently I am obtainig my undergraduate degree in Electronics & Communication Engineering from KUET,Bangladesh.
 
 ### Career Objective:
