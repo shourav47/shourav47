@@ -5,3 +5,7 @@
 </h3>
 <h3>About me:
     <h5>I have a great passion to work in reasearch field but didn't get any opportunity to work under any Reasearcher. I have done a course of Udemy in ML. I will be interested in working with ML & Communication sector.</h5>
+</h3>
+<h3>Contact info:
+    <h4>[![LinkedIn logo image link](C:\Users\User\Desktop\git\174857.png)](https://www.linkedin.com/in/md-asaduzzaman-b5a45b18a/)</h4>
+</h3>
