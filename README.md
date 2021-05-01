@@ -12,7 +12,10 @@
   <img align="left" alt="Asaduzzaman-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
 <a href="https://www.facebook.com/asaduzzaman.shourav.5/">
-  <img align="left" alt="rahul-instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">
+  <img align="left" alt="Asasuzzaman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">
 </a>
+<a href = "asaduzzaman1709047@stud.kuet.ac.bd">
+  <img align="left" alt="Asaduzzaman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg">
+     </a>
     </p>
 </h3>
