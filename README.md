@@ -33,3 +33,11 @@ I have a great passion to work in reasearch field but didn't get any opportunity
 * Javascript
 * Asp.net
 * Sql
+
+### Experience:
+1. Data Science & Business Analytics Intern
+    * [The Spark Foundation](https://www.thesparksfoundationsingapore.org/)
+    * period [April,2021 -May,2021]
+2. Machine Learning Intern
+    * [DevIncept](https://devincept.tech/)
+    * Period[May,2021 - Present]
