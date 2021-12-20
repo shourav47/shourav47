@@ -1,13 +1,13 @@
 ## Hello, There :heart:
 ![sb-blog-ai](https://user-images.githubusercontent.com/63811871/116791466-6b05c780-aadc-11eb-98db-7be28b2ef043.jpg)
 
-I am ***Md. Asaduzzaman***, Currently I am obtainig my undergraduate degree in Electronics & Communication Engineering from KUET,Bangladesh.
+I am **Md. Asaduzzaman**, Currently I am obtainig my undergraduate degree in Electronics & Communication Engineering from KUET,Bangladesh.
 
 ### Career Objective:
 To be a perceptive and self-developing Communication Engineer and Software Developer in the field of Electronics, Networking & Telecommunication sector and join in the well-established as well as reputed organization.
 
 ### About me:
-I have a great passion to work in reasearch field but didn't get any opportunity to work under any Reasearcher. I have done a course of Udemy in ML. I will be interested in working with ML & Communication sector.
+I have a great passion to work in reasearch field but didn't get any opportunity to work under any Reasearcher. I have so much interest in the field of ML,DL. Currently I am looking for an intership in this field. 
 
 
 ### Contact info:
